@@ -2,6 +2,8 @@
 
 > Change casing of strings
 
+![alt text](./CASE_CHANGER.png "Case Changer")
+
 ## Build Setup
 
 ``` bash
